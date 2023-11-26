@@ -90,8 +90,6 @@ def Sound_Effect():
 
 vel=300
 jump=True
-# jump_count=10
-# jump_height=300
 game_time=0
 gravity=0.5
 
