@@ -8,7 +8,7 @@ import os
 from sys import exit
 from pygame import mixer 
 
-############################## Background intializtion #########################################################
+############################## Background intialization #########################################################
 
 pygame.init() 
 os.environ['SDL_VIDEO_CENTERED'] = '1 ' # Used to center the window as it was appearing on the right of the screen
